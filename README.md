@@ -260,16 +260,12 @@ const insights = await tianji.ai.analyzeCustomerBehavior({
 
 ---
 
----
 
 ## 📞 联系我们
 
 ### 商务合作
-- **邮箱**695189732@qq.com
-- **微信**catphp
-
-
----
+- **邮箱**：695189732@qq.com
+- **微信号**：catphp
 
 ---
 
